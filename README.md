@@ -1,4 +1,4 @@
-# Estimation-and-Prediction-of-Hospitalization-and-Medical-care-cost
+## Estimation-and-Prediction-of-Hospitalization-and-Medical-care-cost
 Medical care costs can vary significantly depending on factors such as the type of medical service, the location where the service is provided, the healthcare provider, and the specific medical condition being treated. Here are some general insights into medical care costs:
 
 1. **Healthcare Services**: The cost of medical care can include various services such as doctor visits, hospital stays, surgeries, diagnostic tests (like X-rays and MRIs), prescription medications, and rehabilitation therapies.
