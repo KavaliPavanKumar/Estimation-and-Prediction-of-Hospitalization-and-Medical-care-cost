@@ -9,27 +9,27 @@ To accomplish this, we have to complete all the activities listed below,
 *	Specify the business problem
   1.	Business requirements
   2.	Literature Survey
-o	Social or Business Impact.
+  3.	Social or Business Impact.
 *	Data Collection & Extraction from Database
-o	Collect the dataset,
-o	 Connect IBM DB2 with IBM Cognos
+  4.	Collect the dataset,
+  5.  Connect IBM DB2 with IBM Cognos
 *	Data Preparation
-o	Prepare the Data for Visualization
+  6.  Prepare the Data for Visualization
 *	Data Visualizations
-o	No of Unique Visualizations
+  7.	No of Unique Visualizations
 *	Dashboard
-o	Responsive and Design of Dashboard
+  8.	Responsive and Design of Dashboard
 *	Story
-o	No of Scenes of Story
+  9.	No of Scenes of Story
 *	Report
-o	Creating a Report                 
+  10.	Creating a Report                 
 *	Performance Testing 
-o	Amount of Data Rendered to DB ‘
-o	Utilization of Data Filters
-o	No of Calculation Fields
-o	No of Visualizations/ Graphs 
+  11.	Amount of Data Rendered to DB ‘
+  12.	Utilization of Data Filters
+  13.	No of Calculation Fields
+  14.	No of Visualizations/ Graphs 
 *	Web Integration
-o	Dashboard and Story embed with UI With Flask
+  15.	Dashboard and Story embed with UI With Flask
 *	Project Demonstration & Documentation
-o	Record explanation Video for project end-to-end solution
-o	Project Documentation-Step by step project development procedure
+  16.	Record explanation Video for project end-to-end solution
+  17.	Project Documentation-Step by step project development procedure
