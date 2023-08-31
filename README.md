@@ -12,8 +12,8 @@ To accomplish this, we have to complete all the activities listed below,
   2.	Literature Survey
   3.	Social or Business Impact.
 *	Data Collection & Extraction from Database
-  *	 Collect the dataset,
-  *  Connect IBM DB2 with IBM Cognos
+  4.	Collect the dataset,
+  5.  Connect IBM DB2 with IBM Cognos
 *	Data Preparation
   6.  Prepare the Data for Visualization
 *	Data Visualizations
