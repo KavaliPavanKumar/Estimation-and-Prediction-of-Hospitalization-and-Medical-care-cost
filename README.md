@@ -30,6 +30,4 @@ To accomplish this, we have to complete all the activities listed below,
   14.	No of Visualizations/ Graphs 
 *	Web Integration
   15.	Dashboard and Story embed with UI With Flask
-*	Project Demonstration & Documentation
-  16.	Record explanation Video for project end-to-end solution
-  17.	Project Documentation-Step by step project development procedure
+
