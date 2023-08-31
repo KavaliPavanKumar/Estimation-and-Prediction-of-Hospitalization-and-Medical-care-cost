@@ -5,31 +5,31 @@ Medical costs are one of the most common recurring expenses in a person's life. 
 
 ## Project Flow
 To accomplish this, we have to complete all the activities listed below,
-•	Define Problem / Problem Understanding
+*	Define Problem / Problem Understanding
 *	Specify the business problem
 o	Business requirements
 o	Literature Survey
 o	Social or Business Impact.
-•	Data Collection & Extraction from Database
+*	Data Collection & Extraction from Database
 o	Collect the dataset,
 o	 Connect IBM DB2 with IBM Cognos
-•	Data Preparation
+*	Data Preparation
 o	Prepare the Data for Visualization
-•	Data Visualizations
+*	Data Visualizations
 o	No of Unique Visualizations
-•	Dashboard
+*	Dashboard
 o	Responsive and Design of Dashboard
-•	Story
+*	Story
 o	No of Scenes of Story
-•	Report
+*	Report
 o	Creating a Report                 
-•	Performance Testing 
+*	Performance Testing 
 o	Amount of Data Rendered to DB ‘
 o	Utilization of Data Filters
 o	No of Calculation Fields
 o	No of Visualizations/ Graphs 
-•	Web Integration
+*	Web Integration
 o	Dashboard and Story embed with UI With Flask
-•	Project Demonstration & Documentation
+*	Project Demonstration & Documentation
 o	Record explanation Video for project end-to-end solution
 o	Project Documentation-Step by step project development procedure
