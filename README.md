@@ -7,8 +7,8 @@ Medical costs are one of the most common recurring expenses in a person's life. 
 To accomplish this, we have to complete all the activities listed below,
 *	Define Problem / Problem Understanding
 *	Specify the business problem
-**	Business requirements
-**	Literature Survey
+  1.	Business requirements
+  2.	Literature Survey
 o	Social or Business Impact.
 *	Data Collection & Extraction from Database
 o	Collect the dataset,
