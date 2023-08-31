@@ -34,3 +34,7 @@ To accomplish this, we have to complete all the activities listed below,
   15.	Dashboard and Story embed with UI With Flask
 
 ## Project Details :
+![p1](https://github.com/KavaliPavanKumar/Estimation-and-Prediction-of-Hospitalization-and-Medical-care-cost/assets/119150985/87eec369-5f3c-41a9-9ac9-288c2cc55b0f)
+![p2](https://github.com/KavaliPavanKumar/Estimation-and-Prediction-of-Hospitalization-and-Medical-care-cost/assets/119150985/b8f1c2a2-3476-484b-8343-d809fd37ee51)
+![p3](https://github.com/KavaliPavanKumar/Estimation-and-Prediction-of-Hospitalization-and-Medical-care-cost/assets/119150985/8141cd8f-f1a4-41b7-abe2-044e3f2305d8)
+![p4](https://github.com/KavaliPavanKumar/Estimation-and-Prediction-of-Hospitalization-and-Medical-care-cost/assets/119150985/99910252-d29f-48ef-a414-be1af5bd33e6)
