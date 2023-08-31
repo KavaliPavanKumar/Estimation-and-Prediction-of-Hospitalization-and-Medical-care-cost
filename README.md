@@ -33,3 +33,4 @@ To accomplish this, we have to complete all the activities listed below,
 *	Web Integration
   15.	Dashboard and Story embed with UI With Flask
 
+## Project Details :
